@@ -1,4 +1,4 @@
-public class WelcomeGit {
+public class App {
 
     public static void main(String[] args) {
 
